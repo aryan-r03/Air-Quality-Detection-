@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Air+Quality+Prediction;ML-Powered+AQI+Analysis;Random+Forest+Regressor;Real-Time+Monitoring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=143324&center=true&vCenter=true&width=700&lines=Air+Quality+Prediction;ML-Powered+AQI+Analysis;Random+Forest+Regressor;Real-Time+Monitoring" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -2150,7 +2150,7 @@ Free to use, and distribute with attribution
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=ML+Engineer;Environmental+Data+Enthusiast;Flask+Developer;Open+Source+Contributor" alt="Author Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Aryan+Ranjan" alt="Author Typing SVG" />
 
 <br>
 
