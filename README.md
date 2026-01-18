@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=143324&center=true&vCenter=true&width=700&lines=Air+Quality+Prediction;ML-Powered+AQI+Analysis;Random+Forest+Regressor;Real-Time+Monitoring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Air+Quality+Prediction;ML-Powered+AQI+Analysis;Random+Forest+Regressor;Real-Time+Monitoring" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -2154,6 +2154,36 @@ Free to use, and distribute with attribution
 
 <br>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aryan-r03">
+        <img src="https://img.shields.io/badge/GitHub-aryan--r03-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/aryan-ranjan03">
+        <img src="https://img.shields.io/badge/LinkedIn-aryan--ranjan03-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:aryanr.ranjan@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/__aryan_.r03">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
 **🎓 Computer Applications in AI & ML**
 <br>
 **Building intelligent environmental monitoring systems**
@@ -2199,10 +2229,15 @@ Free to use, and distribute with attribution
 
 **If this project helped you, please consider:**
 
-[![Stars](https://img.shields.io/github/stars/aryan-r03/air-quality-prediction?style=social)](https://github.com/aryan-r03/air-quality-prediction/stargazers)
-[![Forks](https://img.shields.io/github/forks/aryan-r03/air-quality-prediction?style=social)](https://github.com/aryan-r03/air-quality-prediction/network/members)
-[![Watchers](https://img.shields.io/github/watchers/aryan-r03/air-quality-prediction?style=social)](https://github.com/aryan-r03/air-quality-prediction/watchers)
-
+<a href="https://github.com/aryan-r03/Air-Quality-Detection">
+  <img src="https://img.shields.io/github/stars/aryan-r03/Air-Quality-Detection?style=social" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/aryan-r03/Air-Quality-Detection/fork">
+  <img src="https://img.shields.io/github/forks/aryan-r03/Air-Quality-Detection?style=social" alt="GitHub forks"/>
+</a>
+<a href="https://github.com/aryan-r03/Air-Quality-Detection/watchers">
+  <img src="https://img.shields.io/github/watchers/aryan-r03/Air-Quality-Detection?style=social" alt="GitHub watchers"/>
+</a>
 
 <br><br>
 
